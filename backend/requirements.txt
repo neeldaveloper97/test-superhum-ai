@@ -1,0 +1,6 @@
+fastapi
+httpx
+supabase
+pydantic
+pydantic_settings
+requests
